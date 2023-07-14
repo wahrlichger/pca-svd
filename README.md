@@ -1,2 +1,2 @@
 # pca-svd
-low - rank approximation of a matrix by using pca - svd 
+low - rank approximation of target matrix 
